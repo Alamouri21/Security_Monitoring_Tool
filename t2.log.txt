@@ -1,0 +1,409 @@
+2026-03-17 09:30:00 - INFO - Server started successfully
+2026-03-17 09:35:12 - INFO - Database connection established
+2026-03-17 09:40:45 - WARNING - High memory usage detected, 80% of available memory is in use
+2026-03-17 09:45:23 - ERROR - Failed to load user profile for user ID 12567
+2026-03-17 09:47:10 - WARNING - High CPU usage detected, exceeding 90% on server CPU core 2
+2026-03-17 09:50:00 - INFO - User login successful for user ID 12567 from IP address 192.168.1.10
+2026-03-17 09:52:30 - ERROR - Failed login attempt for user ID 12345 from IP address 192.168.1.20
+2026-03-17 09:55:15 - INFO - User logout successful for user ID 12567
+2026-03-17 09:58:00 - ERROR - Database connection lost, retrying in 5 seconds
+2026-03-17 10:00:05 - INFO - Database connection re-established successfully
+2026-03-17 10:02:10 - WARNING - Disk space is running low, only 10% space remaining on /dev/sda1
+2026-03-17 10:05:20 - INFO - User login failed for user ID 98765 from IP address 192.168.1.30
+2026-03-17 10:10:00 - ERROR - Server crash detected, restarting server
+2026-03-17 10:12:00 - INFO - Server restarted successfully
+2026-03-17 10:15:40 - DEBUG - Debugging user login issue for user ID 98765
+2026-03-17 10:20:00 - INFO - Server health check passed, all systems operational
+2026-03-17 10:25:05 - ERROR - Unexpected error occurred while processing payment for order ID 98765
+2026-03-17 10:30:00 - INFO - Payment transaction for order ID 98765 successfully processed
+2026-03-17 10:32:15 - INFO - User session timeout for user ID 98765 after 30 minutes of inactivity
+2026-03-17 10:00:01 - INFO - User data successfully saved to database
+2026-03-17 10:00:03 - INFO - New file uploaded by user ID 12567
+2026-03-17 10:00:05 - WARNING - Disk space usage at 95% on drive C:
+2026-03-17 10:00:07 - ERROR - Unable to authenticate user ID 98765
+2026-03-17 10:00:10 - INFO - Backup process started successfully
+2026-03-17 10:00:12 - INFO - Backup file saved as backup_2026_03_17_10_00.zip
+2026-03-17 10:00:15 - ERROR - Backup failed due to permission error
+2026-03-17 10:00:17 - INFO - User ID 12567 changed password successfully
+2026-03-17 10:00:20 - WARNING - Unexpected shutdown detected, system recovery in progress
+2026-03-17 10:00:25 - ERROR - Network error occurred while trying to reach 192.168.1.1
+2026-03-17 10:00:30 - INFO - Server restart initiated
+2026-03-17 10:00:35 - INFO - Server restarted successfully, all services are running
+2026-03-17 10:00:40 - DEBUG - Debugging network failure issue for IP address 192.168.1.1
+2026-03-17 10:00:01 - INFO - User data successfully saved to database
+2026-03-17 10:00:03 - INFO - New file uploaded by user ID 12567
+2026-03-17 10:00:05 - WARNING - Disk space usage at 95% on drive C:
+2026-03-17 10:00:07 - ERROR - Unable to authenticate user ID 98765
+2026-03-17 10:00:10 - INFO - Backup process started successfully
+2026-03-17 10:00:12 - INFO - Backup file saved as backup_2026_03_17_10_00.zip
+2026-03-17 10:00:15 - ERROR - Backup failed due to permission error
+2026-03-17 10:00:17 - INFO - User ID 12567 changed password successfully
+2026-03-17 10:00:20 - WARNING - Unexpected shutdown detected, system recovery in progress
+2026-03-17 10:00:25 - ERROR - Network error occurred while trying to reach 192.168.1.1
+2026-03-17 10:00:30 - INFO - Server restart initiated
+2026-03-17 10:00:35 - INFO - Server restarted successfully, all services are running
+2026-03-17 10:00:40 - DEBUG - Debugging network failure issue for IP address 192.168.1.1
+2026-03-17 10:00:01 - INFO - User data successfully saved to database
+2026-03-17 10:00:03 - INFO - New file uploaded by user ID 12567
+2026-03-17 10:00:05 - WARNING - Disk space usage at 95% on drive C:
+2026-03-17 10:00:07 - ERROR - Unable to authenticate user ID 98765
+2026-03-17 10:00:10 - INFO - Backup process started successfully
+2026-03-17 10:00:12 - INFO - Backup file saved as backup_2026_03_17_10_00.zip
+2026-03-17 10:00:15 - ERROR - Backup failed due to permission error
+2026-03-17 10:00:17 - INFO - User ID 12567 changed password successfully
+2026-03-17 10:00:20 - WARNING - Unexpected shutdown detected, system recovery in progress
+2026-03-17 10:00:25 - ERROR - Network error occurred while trying to reach 192.168.1.1
+2026-03-17 10:00:30 - INFO - Server restart initiated
+2026-03-17 10:00:35 - INFO - Server restarted successfully, all services are running
+2026-03-17 10:00:40 - DEBUG - Debugging network failure issue for IP address 192.168.1.1
+2026-03-17 10:00:01 - INFO - User data successfully saved to database
+2026-03-17 10:00:03 - INFO - New file uploaded by user ID 12567
+2026-03-17 10:00:05 - WARNING - Disk space usage at 95% on drive C:
+2026-03-17 10:00:07 - ERROR - Unable to authenticate user ID 98765
+2026-03-17 10:00:10 - INFO - Backup process started successfully
+2026-03-17 10:00:12 - INFO - Backup file saved as backup_2026_03_17_10_00.zip
+2026-03-17 10:00:15 - ERROR - Backup failed due to permission error
+2026-03-17 10:00:17 - INFO - User ID 12567 changed password successfully
+2026-03-17 10:00:20 - WARNING - Unexpected shutdown detected, system recovery in progress
+2026-03-17 10:00:25 - ERROR - Network error occurred while trying to reach 192.168.1.1
+2026-03-17 10:00:30 - INFO - Server restart initiated
+2026-03-17 10:00:35 - INFO - Server restarted successfully, all services are running
+2026-03-17 10:00:40 - DEBUG - Debugging network failure issue for IP address 192.168.1.1
+2026-03-17 10:00:01 - INFO - User data successfully saved to database
+2026-03-17 10:00:03 - INFO - New file uploaded by user ID 12567
+2026-03-17 10:00:05 - WARNING - Disk space usage at 95% on drive C:
+2026-03-17 10:00:07 - ERROR - Unable to authenticate user ID 98765
+2026-03-17 10:00:10 - INFO - Backup process started successfully
+2026-03-17 10:00:12 - INFO - Backup file saved as backup_2026_03_17_10_00.zip
+2026-03-17 10:00:15 - ERROR - Backup failed due to permission error
+2026-03-17 10:00:17 - INFO - User ID 12567 changed password successfully
+2026-03-17 10:00:20 - WARNING - Unexpected shutdown detected, system recovery in progress
+2026-03-17 10:00:25 - ERROR - Network error occurred while trying to reach 192.168.1.1
+2026-03-17 10:00:30 - INFO - Server restart initiated
+2026-03-17 10:00:35 - INFO - Server restarted successfully, all services are running
+2026-03-17 10:00:40 - DEBUG - Debugging network failure issue for IP address 192.168.1.1
+2026-03-17 10:00:01 - INFO - User data successfully saved to database
+2026-03-17 10:00:03 - INFO - New file uploaded by user ID 12567
+2026-03-17 10:00:05 - WARNING - Disk space usage at 95% on drive C:
+2026-03-17 10:00:07 - ERROR - Unable to authenticate user ID 98765
+2026-03-17 10:00:10 - INFO - Backup process started successfully
+2026-03-17 10:00:12 - INFO - Backup file saved as backup_2026_03_17_10_00.zip
+2026-03-17 10:00:15 - ERROR - Backup failed due to permission error
+2026-03-17 10:00:17 - INFO - User ID 12567 changed password successfully
+2026-03-17 10:00:20 - WARNING - Unexpected shutdown detected, system recovery in progress
+2026-03-17 10:00:25 - ERROR - Network error occurred while trying to reach 192.168.1.1
+2026-03-17 10:00:30 - INFO - Server restart initiated
+2026-03-17 10:00:35 - INFO - Server restarted successfully, all services are running
+2026-03-17 10:00:40 - DEBUG - Debugging network failure issue for IP address 192.168.1.1
+2026-03-17 10:00:01 - INFO - User data successfully saved to database
+2026-03-17 10:00:03 - INFO - New file uploaded by user ID 12567
+2026-03-17 10:00:05 - WARNING - Disk space usage at 95% on drive C:
+2026-03-17 10:00:07 - ERROR - Unable to authenticate user ID 98765
+2026-03-17 10:00:10 - INFO - Backup process started successfully
+2026-03-17 10:00:12 - INFO - Backup file saved as backup_2026_03_17_10_00.zip
+2026-03-17 10:00:15 - ERROR - Backup failed due to permission error
+2026-03-17 10:00:17 - INFO - User ID 12567 changed password successfully
+2026-03-17 10:00:20 - WARNING - Unexpected shutdown detected, system recovery in progress
+2026-03-17 10:00:25 - ERROR - Network error occurred while trying to reach 192.168.1.1
+2026-03-17 10:00:30 - INFO - Server restart initiated
+2026-03-17 10:00:35 - INFO - Server restarted successfully, all services are running
+2026-03-17 10:00:40 - DEBUG - Debugging network failure issue for IP address 192.168.1.1
+2026-03-17 10:00:01 - INFO - User data successfully saved to database
+2026-03-17 10:00:03 - INFO - New file uploaded by user ID 12567
+2026-03-17 10:00:05 - WARNING - Disk space usage at 95% on drive C:
+2026-03-17 10:00:07 - ERROR - Unable to authenticate user ID 98765
+2026-03-17 10:00:10 - INFO - Backup process started successfully
+2026-03-17 10:00:12 - INFO - Backup file saved as backup_2026_03_17_10_00.zip
+2026-03-17 10:00:15 - ERROR - Backup failed due to permission error
+2026-03-17 10:00:17 - INFO - User ID 12567 changed password successfully
+2026-03-17 10:00:20 - WARNING - Unexpected shutdown detected, system recovery in progress
+2026-03-17 10:00:25 - ERROR - Network error occurred while trying to reach 192.168.1.1
+2026-03-17 10:00:30 - INFO - Server restart initiated
+2026-03-17 10:00:35 - INFO - Server restarted successfully, all services are running
+2026-03-17 10:00:40 - DEBUG - Debugging network failure issue for IP address 192.168.1.1
+2026-03-17 10:00:01 - INFO - User data successfully saved to database
+2026-03-17 10:00:03 - INFO - New file uploaded by user ID 12567
+2026-03-17 10:00:05 - WARNING - Disk space usage at 95% on drive C:
+2026-03-17 10:00:07 - ERROR - Unable to authenticate user ID 98765
+2026-03-17 10:00:10 - INFO - Backup process started successfully
+2026-03-17 10:00:12 - INFO - Backup file saved as backup_2026_03_17_10_00.zip
+2026-03-17 10:00:15 - ERROR - Backup failed due to permission error
+2026-03-17 10:00:17 - INFO - User ID 12567 changed password successfully
+2026-03-17 10:00:20 - WARNING - Unexpected shutdown detected, system recovery in progress
+2026-03-17 10:00:25 - ERROR - Network error occurred while trying to reach 192.168.1.1
+2026-03-17 10:00:30 - INFO - Server restart initiated
+2026-03-17 10:00:35 - INFO - Server restarted successfully, all services are running
+2026-03-17 10:00:40 - DEBUG - Debugging network failure issue for IP address 192.168.1.1
+2026-03-17 10:00:01 - INFO - User data successfully saved to database
+2026-03-17 10:00:03 - INFO - New file uploaded by user ID 12567
+2026-03-17 10:00:05 - WARNING - Disk space usage at 95% on drive C:
+2026-03-17 10:00:07 - ERROR - Unable to authenticate user ID 98765
+2026-03-17 10:00:10 - INFO - Backup process started successfully
+2026-03-17 10:00:12 - INFO - Backup file saved as backup_2026_03_17_10_00.zip
+2026-03-17 10:00:15 - ERROR - Backup failed due to permission error
+2026-03-17 10:00:17 - INFO - User ID 12567 changed password successfully
+2026-03-17 10:00:20 - WARNING - Unexpected shutdown detected, system recovery in progress
+2026-03-17 10:00:25 - ERROR - Network error occurred while trying to reach 192.168.1.1
+2026-03-17 10:00:30 - INFO - Server restart initiated
+2026-03-17 10:00:35 - INFO - Server restarted successfully, all services are running
+2026-03-17 10:00:40 - DEBUG - Debugging network failure issue for IP address 192.168.1.1
+2026-03-17 10:00:01 - INFO - User data successfully saved to database
+2026-03-17 10:00:03 - INFO - New file uploaded by user ID 12567
+2026-03-17 10:00:05 - WARNING - Disk space usage at 95% on drive C:
+2026-03-17 10:00:07 - ERROR - Unable to authenticate user ID 98765
+2026-03-17 10:00:10 - INFO - Backup process started successfully
+2026-03-17 10:00:12 - INFO - Backup file saved as backup_2026_03_17_10_00.zip
+2026-03-17 10:00:15 - ERROR - Backup failed due to permission error
+2026-03-17 10:00:17 - INFO - User ID 12567 changed password successfully
+2026-03-17 10:00:20 - WARNING - Unexpected shutdown detected, system recovery in progress
+2026-03-17 10:00:25 - ERROR - Network error occurred while trying to reach 192.168.1.1
+2026-03-17 10:00:30 - INFO - Server restart initiated
+2026-03-17 10:00:35 - INFO - Server restarted successfully, all services are running
+2026-03-17 10:00:40 - DEBUG - Debugging network failure issue for IP address 192.168.1.1
+2026-03-17 10:00:01 - INFO - User data successfully saved to database
+2026-03-17 10:00:03 - INFO - New file uploaded by user ID 12567
+2026-03-17 10:00:05 - WARNING - Disk space usage at 95% on drive C:
+2026-03-17 10:00:07 - ERROR - Unable to authenticate user ID 98765
+2026-03-17 10:00:10 - INFO - Backup process started successfully
+2026-03-17 10:00:12 - INFO - Backup file saved as backup_2026_03_17_10_00.zip
+2026-03-17 10:00:15 - ERROR - Backup failed due to permission error
+2026-03-17 10:00:17 - INFO - User ID 12567 changed password successfully
+2026-03-17 10:00:20 - WARNING - Unexpected shutdown detected, system recovery in progress
+2026-03-17 10:00:25 - ERROR - Network error occurred while trying to reach 192.168.1.1
+2026-03-17 10:00:30 - INFO - Server restart initiated
+2026-03-17 10:00:35 - INFO - Server restarted successfully, all services are running
+2026-03-17 10:00:40 - DEBUG - Debugging network failure issue for IP address 192.168.1.1
+2026-03-17 10:00:01 - INFO - User data successfully saved to database
+2026-03-17 10:00:03 - INFO - New file uploaded by user ID 12567
+2026-03-17 10:00:05 - WARNING - Disk space usage at 95% on drive C:
+2026-03-17 10:00:07 - ERROR - Unable to authenticate user ID 98765
+2026-03-17 10:00:10 - INFO - Backup process started successfully
+2026-03-17 10:00:12 - INFO - Backup file saved as backup_2026_03_17_10_00.zip
+2026-03-17 10:00:15 - ERROR - Backup failed due to permission error
+2026-03-17 10:00:17 - INFO - User ID 12567 changed password successfully
+2026-03-17 10:00:20 - WARNING - Unexpected shutdown detected, system recovery in progress
+2026-03-17 10:00:25 - ERROR - Network error occurred while trying to reach 192.168.1.1
+2026-03-17 10:00:30 - INFO - Server restart initiated
+2026-03-17 10:00:35 - INFO - Server restarted successfully, all services are running
+2026-03-17 10:00:40 - DEBUG - Debugging network failure issue for IP address 192.168.1.1
+2026-03-17 10:00:01 - INFO - User data successfully saved to database
+2026-03-17 10:00:03 - INFO - New file uploaded by user ID 12567
+2026-03-17 10:00:05 - WARNING - Disk space usage at 95% on drive C:
+2026-03-17 10:00:07 - ERROR - Unable to authenticate user ID 98765
+2026-03-17 10:00:10 - INFO - Backup process started successfully
+2026-03-17 10:00:12 - INFO - Backup file saved as backup_2026_03_17_10_00.zip
+2026-03-17 10:00:15 - ERROR - Backup failed due to permission error
+2026-03-17 10:00:17 - INFO - User ID 12567 changed password successfully
+2026-03-17 10:00:20 - WARNING - Unexpected shutdown detected, system recovery in progress
+2026-03-17 10:00:25 - ERROR - Network error occurred while trying to reach 192.168.1.1
+2026-03-17 10:00:30 - INFO - Server restart initiated
+2026-03-17 10:00:35 - INFO - Server restarted successfully, all services are running
+2026-03-17 10:00:40 - DEBUG - Debugging network failure issue for IP address 192.168.1.1
+2026-03-17 10:00:01 - INFO - User data successfully saved to database
+2026-03-17 10:00:03 - INFO - New file uploaded by user ID 12567
+2026-03-17 10:00:05 - WARNING - Disk space usage at 95% on drive C:
+2026-03-17 10:00:07 - ERROR - Unable to authenticate user ID 98765
+2026-03-17 10:00:10 - INFO - Backup process started successfully
+2026-03-17 10:00:12 - INFO - Backup file saved as backup_2026_03_17_10_00.zip
+2026-03-17 10:00:15 - ERROR - Backup failed due to permission error
+2026-03-17 10:00:17 - INFO - User ID 12567 changed password successfully
+2026-03-17 10:00:20 - WARNING - Unexpected shutdown detected, system recovery in progress
+2026-03-17 10:00:25 - ERROR - Network error occurred while trying to reach 192.168.1.1
+2026-03-17 10:00:30 - INFO - Server restart initiated
+2026-03-17 10:00:35 - INFO - Server restarted successfully, all services are running
+2026-03-17 10:00:40 - DEBUG - Debugging network failure issue for IP address 192.168.1.1
+2026-03-17 10:00:01 - INFO - User data successfully saved to database
+2026-03-17 10:00:03 - INFO - New file uploaded by user ID 12567
+2026-03-17 10:00:05 - WARNING - Disk space usage at 95% on drive C:
+2026-03-17 10:00:07 - ERROR - Unable to authenticate user ID 98765
+2026-03-17 10:00:10 - INFO - Backup process started successfully
+2026-03-17 10:00:12 - INFO - Backup file saved as backup_2026_03_17_10_00.zip
+2026-03-17 10:00:15 - ERROR - Backup failed due to permission error
+2026-03-17 10:00:17 - INFO - User ID 12567 changed password successfully
+2026-03-17 10:00:20 - WARNING - Unexpected shutdown detected, system recovery in progress
+2026-03-17 10:00:25 - ERROR - Network error occurred while trying to reach 192.168.1.1
+2026-03-17 10:00:30 - INFO - Server restart initiated
+2026-03-17 10:00:35 - INFO - Server restarted successfully, all services are running
+2026-03-17 10:00:40 - DEBUG - Debugging network failure issue for IP address 192.168.1.1
+2026-03-17 10:00:01 - INFO - User data successfully saved to database
+2026-03-17 10:00:03 - INFO - New file uploaded by user ID 12567
+2026-03-17 10:00:05 - WARNING - Disk space usage at 95% on drive C:
+2026-03-17 10:00:07 - ERROR - Unable to authenticate user ID 98765
+2026-03-17 10:00:10 - INFO - Backup process started successfully
+2026-03-17 10:00:12 - INFO - Backup file saved as backup_2026_03_17_10_00.zip
+2026-03-17 10:00:15 - ERROR - Backup failed due to permission error
+2026-03-17 10:00:17 - INFO - User ID 12567 changed password successfully
+2026-03-17 10:00:20 - WARNING - Unexpected shutdown detected, system recovery in progress
+2026-03-17 10:00:25 - ERROR - Network error occurred while trying to reach 192.168.1.1
+2026-03-17 10:00:30 - INFO - Server restart initiated
+2026-03-17 10:00:35 - INFO - Server restarted successfully, all services are running
+2026-03-17 10:00:40 - DEBUG - Debugging network failure issue for IP address 192.168.1.1
+2026-03-17 10:00:01 - INFO - User data successfully saved to database
+2026-03-17 10:00:03 - INFO - New file uploaded by user ID 12567
+2026-03-17 10:00:05 - WARNING - Disk space usage at 95% on drive C:
+2026-03-17 10:00:07 - ERROR - Unable to authenticate user ID 98765
+2026-03-17 10:00:10 - INFO - Backup process started successfully
+2026-03-17 10:00:12 - INFO - Backup file saved as backup_2026_03_17_10_00.zip
+2026-03-17 10:00:15 - ERROR - Backup failed due to permission error
+2026-03-17 10:00:17 - INFO - User ID 12567 changed password successfully
+2026-03-17 10:00:20 - WARNING - Unexpected shutdown detected, system recovery in progress
+2026-03-17 10:00:25 - ERROR - Network error occurred while trying to reach 192.168.1.1
+2026-03-17 10:00:30 - INFO - Server restart initiated
+2026-03-17 10:00:35 - INFO - Server restarted successfully, all services are running
+2026-03-17 10:00:40 - DEBUG - Debugging network failure issue for IP address 192.168.1.1
+2026-03-17 10:00:01 - INFO - User data successfully saved to database
+2026-03-17 10:00:03 - INFO - New file uploaded by user ID 12567
+2026-03-17 10:00:05 - WARNING - Disk space usage at 95% on drive C:
+2026-03-17 10:00:07 - ERROR - Unable to authenticate user ID 98765
+2026-03-17 10:00:10 - INFO - Backup process started successfully
+2026-03-17 10:00:12 - INFO - Backup file saved as backup_2026_03_17_10_00.zip
+2026-03-17 10:00:15 - ERROR - Backup failed due to permission error
+2026-03-17 10:00:17 - INFO - User ID 12567 changed password successfully
+2026-03-17 10:00:20 - WARNING - Unexpected shutdown detected, system recovery in progress
+2026-03-17 10:00:25 - ERROR - Network error occurred while trying to reach 192.168.1.1
+2026-03-17 10:00:30 - INFO - Server restart initiated
+2026-03-17 10:00:35 - INFO - Server restarted successfully, all services are running
+2026-03-17 10:00:40 - DEBUG - Debugging network failure issue for IP address 192.168.1.1
+2026-03-17 10:00:01 - INFO - User data successfully saved to database
+2026-03-17 10:00:03 - INFO - New file uploaded by user ID 12567
+2026-03-17 10:00:05 - WARNING - Disk space usage at 95% on drive C:
+2026-03-17 10:00:07 - ERROR - Unable to authenticate user ID 98765
+2026-03-17 10:00:10 - INFO - Backup process started successfully
+2026-03-17 10:00:12 - INFO - Backup file saved as backup_2026_03_17_10_00.zip
+2026-03-17 10:00:15 - ERROR - Backup failed due to permission error
+2026-03-17 10:00:17 - INFO - User ID 12567 changed password successfully
+2026-03-17 10:00:20 - WARNING - Unexpected shutdown detected, system recovery in progress
+2026-03-17 10:00:25 - ERROR - Network error occurred while trying to reach 192.168.1.1
+2026-03-17 10:00:30 - INFO - Server restart initiated
+2026-03-17 10:00:35 - INFO - Server restarted successfully, all services are running
+2026-03-17 10:00:40 - DEBUG - Debugging network failure issue for IP address 192.168.1.1
+2026-03-17 10:00:01 - INFO - User data successfully saved to database
+2026-03-17 10:00:03 - INFO - New file uploaded by user ID 12567
+2026-03-17 10:00:05 - WARNING - Disk space usage at 95% on drive C:
+2026-03-17 10:00:07 - ERROR - Unable to authenticate user ID 98765
+2026-03-17 10:00:10 - INFO - Backup process started successfully
+2026-03-17 10:00:12 - INFO - Backup file saved as backup_2026_03_17_10_00.zip
+2026-03-17 10:00:15 - ERROR - Backup failed due to permission error
+2026-03-17 10:00:17 - INFO - User ID 12567 changed password successfully
+2026-03-17 10:00:20 - WARNING - Unexpected shutdown detected, system recovery in progress
+2026-03-17 10:00:25 - ERROR - Network error occurred while trying to reach 192.168.1.1
+2026-03-17 10:00:30 - INFO - Server restart initiated
+2026-03-17 10:00:35 - INFO - Server restarted successfully, all services are running
+2026-03-17 10:00:40 - DEBUG - Debugging network failure issue for IP address 192.168.1.1
+2026-03-17 10:00:01 - INFO - User data successfully saved to database
+2026-03-17 10:00:03 - INFO - New file uploaded by user ID 12567
+2026-03-17 10:00:05 - WARNING - Disk space usage at 95% on drive C:
+2026-03-17 10:00:07 - ERROR - Unable to authenticate user ID 98765
+2026-03-17 10:00:10 - INFO - Backup process started successfully
+2026-03-17 10:00:12 - INFO - Backup file saved as backup_2026_03_17_10_00.zip
+2026-03-17 10:00:15 - ERROR - Backup failed due to permission error
+2026-03-17 10:00:17 - INFO - User ID 12567 changed password successfully
+2026-03-17 10:00:20 - WARNING - Unexpected shutdown detected, system recovery in progress
+2026-03-17 10:00:25 - ERROR - Network error occurred while trying to reach 192.168.1.1
+2026-03-17 10:00:30 - INFO - Server restart initiated
+2026-03-17 10:00:35 - INFO - Server restarted successfully, all services are running
+2026-03-17 10:00:40 - DEBUG - Debugging network failure issue for IP address 192.168.1.1
+2026-03-17 10:00:01 - INFO - User data successfully saved to database
+2026-03-17 10:00:03 - INFO - New file uploaded by user ID 12567
+2026-03-17 10:00:05 - WARNING - Disk space usage at 95% on drive C:
+2026-03-17 10:00:07 - ERROR - Unable to authenticate user ID 98765
+2026-03-17 10:00:10 - INFO - Backup process started successfully
+2026-03-17 10:00:12 - INFO - Backup file saved as backup_2026_03_17_10_00.zip
+2026-03-17 10:00:15 - ERROR - Backup failed due to permission error
+2026-03-17 10:00:17 - INFO - User ID 12567 changed password successfully
+2026-03-17 10:00:20 - WARNING - Unexpected shutdown detected, system recovery in progress
+2026-03-17 10:00:25 - ERROR - Network error occurred while trying to reach 192.168.1.1
+2026-03-17 10:00:30 - INFO - Server restart initiated
+2026-03-17 10:00:35 - INFO - Server restarted successfully, all services are running
+2026-03-17 10:00:40 - DEBUG - Debugging network failure issue for IP address 192.168.1.1
+2026-03-17 10:00:01 - INFO - User data successfully saved to database
+2026-03-17 10:00:03 - INFO - New file uploaded by user ID 12567
+2026-03-17 10:00:05 - WARNING - Disk space usage at 95% on drive C:
+2026-03-17 10:00:07 - ERROR - Unable to authenticate user ID 98765
+2026-03-17 10:00:10 - INFO - Backup process started successfully
+2026-03-17 10:00:12 - INFO - Backup file saved as backup_2026_03_17_10_00.zip
+2026-03-17 10:00:15 - ERROR - Backup failed due to permission error
+2026-03-17 10:00:17 - INFO - User ID 12567 changed password successfully
+2026-03-17 10:00:20 - WARNING - Unexpected shutdown detected, system recovery in progress
+2026-03-17 10:00:25 - ERROR - Network error occurred while trying to reach 192.168.1.1
+2026-03-17 10:00:30 - INFO - Server restart initiated
+2026-03-17 10:00:35 - INFO - Server restarted successfully, all services are running
+2026-03-17 10:00:40 - DEBUG - Debugging network failure issue for IP address 192.168.1.1
+2026-03-17 10:00:01 - INFO - User data successfully saved to database
+2026-03-17 10:00:03 - INFO - New file uploaded by user ID 12567
+2026-03-17 10:00:05 - WARNING - Disk space usage at 95% on drive C:
+2026-03-17 10:00:07 - ERROR - Unable to authenticate user ID 98765
+2026-03-17 10:00:10 - INFO - Backup process started successfully
+2026-03-17 10:00:12 - INFO - Backup file saved as backup_2026_03_17_10_00.zip
+2026-03-17 10:00:15 - ERROR - Backup failed due to permission error
+2026-03-17 10:00:17 - INFO - User ID 12567 changed password successfully
+2026-03-17 10:00:20 - WARNING - Unexpected shutdown detected, system recovery in progress
+2026-03-17 10:00:25 - ERROR - Network error occurred while trying to reach 192.168.1.1
+2026-03-17 10:00:30 - INFO - Server restart initiated
+2026-03-17 10:00:35 - INFO - Server restarted successfully, all services are running
+2026-03-17 10:00:40 - DEBUG - Debugging network failure issue for IP address 192.168.1.1
+2026-03-17 10:00:01 - INFO - User data successfully saved to database
+2026-03-17 10:00:03 - INFO - New file uploaded by user ID 12567
+2026-03-17 10:00:05 - WARNING - Disk space usage at 95% on drive C:
+2026-03-17 10:00:07 - ERROR - Unable to authenticate user ID 98765
+2026-03-17 10:00:10 - INFO - Backup process started successfully
+2026-03-17 10:00:12 - INFO - Backup file saved as backup_2026_03_17_10_00.zip
+2026-03-17 10:00:15 - ERROR - Backup failed due to permission error
+2026-03-17 10:00:17 - INFO - User ID 12567 changed password successfully
+2026-03-17 10:00:20 - WARNING - Unexpected shutdown detected, system recovery in progress
+2026-03-17 10:00:25 - ERROR - Network error occurred while trying to reach 192.168.1.1
+2026-03-17 10:00:30 - INFO - Server restart initiated
+2026-03-17 10:00:35 - INFO - Server restarted successfully, all services are running
+2026-03-17 10:00:40 - DEBUG - Debugging network failure issue for IP address 192.168.1.1
+2026-03-17 10:00:01 - INFO - User data successfully saved to database
+2026-03-17 10:00:03 - INFO - New file uploaded by user ID 12567
+2026-03-17 10:00:05 - WARNING - Disk space usage at 95% on drive C:
+2026-03-17 10:00:07 - ERROR - Unable to authenticate user ID 98765
+2026-03-17 10:00:10 - INFO - Backup process started successfully
+2026-03-17 10:00:12 - INFO - Backup file saved as backup_2026_03_17_10_00.zip
+2026-03-17 10:00:15 - ERROR - Backup failed due to permission error
+2026-03-17 10:00:17 - INFO - User ID 12567 changed password successfully
+2026-03-17 10:00:20 - WARNING - Unexpected shutdown detected, system recovery in progress
+2026-03-17 10:00:25 - ERROR - Network error occurred while trying to reach 192.168.1.1
+2026-03-17 10:00:30 - INFO - Server restart initiated
+2026-03-17 10:00:35 - INFO - Server restarted successfully, all services are running
+2026-03-17 10:00:40 - DEBUG - Debugging network failure issue for IP address 192.168.1.1
+2026-03-17 10:00:01 - INFO - User data successfully saved to database
+2026-03-17 10:00:03 - INFO - New file uploaded by user ID 12567
+2026-03-17 10:00:05 - WARNING - Disk space usage at 95% on drive C:
+2026-03-17 10:00:07 - ERROR - Unable to authenticate user ID 98765
+2026-03-17 10:00:10 - INFO - Backup process started successfully
+2026-03-17 10:00:12 - INFO - Backup file saved as backup_2026_03_17_10_00.zip
+2026-03-17 10:00:15 - ERROR - Backup failed due to permission error
+2026-03-17 10:00:17 - INFO - User ID 12567 changed password successfully
+2026-03-17 10:00:20 - WARNING - Unexpected shutdown detected, system recovery in progress
+2026-03-17 10:00:25 - ERROR - Network error occurred while trying to reach 192.168.1.1
+2026-03-17 10:00:30 - INFO - Server restart initiated
+2026-03-17 10:00:35 - INFO - Server restarted successfully, all services are running
+2026-03-17 10:00:40 - DEBUG - Debugging network failure issue for IP address 192.168.1.1
+2026-03-17 10:00:01 - INFO - User data successfully saved to database
+2026-03-17 10:00:03 - INFO - New file uploaded by user ID 12567
+2026-03-17 10:00:05 - WARNING - Disk space usage at 95% on drive C:
+2026-03-17 10:00:07 - ERROR - Unable to authenticate user ID 98765
+2026-03-17 10:00:10 - INFO - Backup process started successfully
+2026-03-17 10:00:12 - INFO - Backup file saved as backup_2026_03_17_10_00.zip
+2026-03-17 10:00:15 - ERROR - Backup failed due to permission error
+2026-03-17 10:00:17 - INFO - User ID 12567 changed password successfully
+2026-03-17 10:00:20 - WARNING - Unexpected shutdown detected, system recovery in progress
+2026-03-17 10:00:25 - ERROR - Network error occurred while trying to reach 192.168.1.1
+2026-03-17 10:00:30 - INFO - Server restart initiated
+2026-03-17 10:00:35 - INFO - Server restarted successfully, all services are running
+2026-03-17 10:00:40 - DEBUG - Debugging network failure issue for IP address 192.168.1.1
+2026-03-17 10:00:01 - INFO - User data successfully saved to database
+2026-03-17 10:00:03 - INFO - New file uploaded by user ID 12567
+2026-03-17 10:00:05 - WARNING - Disk space usage at 95% on drive C:
+2026-03-17 10:00:07 - ERROR - Unable to authenticate user ID 98765
+2026-03-17 10:00:10 - INFO - Backup process started successfully
+2026-03-17 10:00:12 - INFO - Backup file saved as backup_2026_03_17_10_00.zip
+2026-03-17 10:00:15 - ERROR - Backup failed due to permission error
+2026-03-17 10:00:17 - INFO - User ID 12567 changed password successfully
+2026-03-17 10:00:20 - WARNING - Unexpected shutdown detected, system recovery in progress
+2026-03-17 10:00:25 - ERROR - Network error occurred while trying to reach 192.168.1.1
+2026-03-17 10:00:30 - INFO - Server restart initiated
+2026-03-17 10:00:35 - INFO - Server restarted successfully, all services are running
+2026-03-17 10:00:40 - DEBUG - Debugging network failure issue for IP address 192.168.1.1
